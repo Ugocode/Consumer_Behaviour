@@ -1,6 +1,7 @@
 # Consumer_Behaviour
 Using Hierarchical and Density based Clustering to determine consumer spending behaviour. so we can get information on how to run target advertisement
 
+![](Consumer-Buying-Behavior.png)
 # File Guide
 
 
