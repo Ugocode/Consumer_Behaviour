@@ -13,9 +13,9 @@ customers.csv: the comma seperated value file containg the data for this project
 
 # Result
 
-It looks like the cluster of 5 is more reasonable
-Our customers can be seen as :
-1. People who are earning less but spending more
+From this project the clusters of 5 properly distiguished our customers to include:
+
+1. People who are earning less but spending more (low income earners but big spenders)
 
 2. People who are earning less and spending less
 
@@ -24,6 +24,9 @@ Our customers can be seen as :
 4. People who are also earning more and spending more
 
 5. People who earn on the average and are spending on the average as well
+
+# Insights
+Advertisers or marketing department and can use this project in determining how to target their advert and marketing pitches 
 
 
 This is a project inspired by the DSDJ program 
