@@ -3,13 +3,13 @@ Using Hierarchical and Density based Clustering to determine consumer spending b
 
 ![](Consumer-Buying-Behavior.png)
 # File Guide
+Consumer-Behaviour.ipynb : project file with codes
 
+Consumer-Buying-Behaviour.png : the image above
 
+Readme.md : This readme file
 
-
-
-
-
+customers.csv: the comma seperated value file containg the data for this project
 
 # Result
 
