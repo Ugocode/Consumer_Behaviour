@@ -26,7 +26,9 @@ From this project the clusters of 5 properly distiguished our customers to inclu
 5. People who earn on the average and are spending on the average as well
 
 # Insights
-Advertisers or marketing department can use this project in determining how to target their advert and marketing pitches for bumper sales
+Advertisers or marketing department can use this project in determining how to target their advert and marketing pitches for bumper sales.
+
+konw what the customers are looking for and who they are to determine the kind of advert that appeals to them and create such ads.
 
 
 This is a project inspired by the DSDJ program 
