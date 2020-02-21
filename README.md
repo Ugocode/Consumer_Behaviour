@@ -30,5 +30,7 @@ Advertisers or marketing department can use this project in determining how to t
 
 konw what the customers are looking for and who they are to determine the kind of advert that appeals to them and create such ads.
 
+That is not hard to do right?
+
 
 This is a project inspired by the DSDJ program 
