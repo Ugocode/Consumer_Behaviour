@@ -1,11 +1,11 @@
 # Consumer_Behaviour
-Using Hierarchical and Density based Clustering to determine consumer spending behaviour. so we can get information on how to run target advertisement
+Using Hierarchical and Density based Clustering to determine consumer spending behaviour. so we can get information on how to run target advertisement.
 
 ![](Consumer-Buying-Behavior.png)
 # File Guide
-Consumer-Behaviour.ipynb : project file with codes
+Consumer-Behaviour.ipynb : project file with codes.
 
-Consumer-Buying-Behaviour.png : the image above
+Consumer-Buying-Behaviour.png : the image above.
 
 Readme.md : This readme file
 
@@ -17,7 +17,7 @@ From this project the clusters of 5 properly distiguished our customers to inclu
 
 1. People who are earning less but spending more (low income earners but big spenders)
 
-2. People who are earning less and spending less
+2. People who are earning less and spending less.
 
 3. People who are earning more and spending less
 
