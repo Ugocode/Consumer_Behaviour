@@ -9,7 +9,7 @@ Consumer-Buying-Behaviour.png : the image above.
 
 Readme.md : This readme file
 
-customers.csv: the comma seperated value file containg the data for this project
+customers.csv: the comma seperated value file containg the data for this project.
 
 # Result
 
@@ -21,7 +21,7 @@ From this project the clusters of 5 properly distiguished our customers to inclu
 
 3. People who are earning more and spending less
 
-4. People who are also earning more and spending more
+4. People who are also earning more and spending more(big earners and also big spenders)
 
 5. People who earn on the average and are spending on the average as well
 
