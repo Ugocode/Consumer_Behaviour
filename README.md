@@ -33,4 +33,4 @@ konw what the customers are looking for and who they are to determine the kind o
 That is not hard to do right?
 
 
-This is a project inspired by the DSDJ program 
+This project was inspired by the DSDJ program 
